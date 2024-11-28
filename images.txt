@@ -1,1 +1,1 @@
-hcr.io/stakater/reloader:latest
+hcr.io/stakater/reloader
