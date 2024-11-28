@@ -1,1 +1,1 @@
-mysql
+hcr.io/stakater/reloader:latest
