@@ -1,1 +1,1 @@
-hcr.io/stakater/reloader
+tutum/curl
