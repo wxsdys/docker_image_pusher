@@ -1,1 +1,1 @@
-docker.io/anchore/anchore-engine:latest
+docker.io/anchore/anchore-engine
