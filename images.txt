@@ -1,1 +1,1 @@
-registry-vpc.cn-hangzhou.aliyuncs.com/mse/quick-start-demo:provider
+openjdk:8-jre-alpine
