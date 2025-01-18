@@ -1,1 +1,1 @@
-pilotx-operator
+docker.io/istio/pilot:1.24.2
