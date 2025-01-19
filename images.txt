@@ -1,1 +1,1 @@
-docker.io/istio/proxyv2:1.24.2
+envoyproxy/envoy
