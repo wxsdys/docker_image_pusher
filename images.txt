@@ -1,1 +1,1 @@
-envoyproxy/envoy
+envoyproxy/envoy:v1.20-latest
