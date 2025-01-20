@@ -1,1 +1,8 @@
-envoyproxy/envoy:v1.20-latest
+gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:ccfa0604ac462ee5d3462f4d2eccbd030f9760c203861e8a5cbbab0651cc6211
+gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:ccfa0604ac462ee5d3462f4d2eccbd030f9760c203861e8a5cbbab0651cc6211
+gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:f9ed20f316f33d529d72e9002b940bb6d2d8daa76361623787f4b87526196c9f
+gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:6699846e900830294e4ec4cc2c2b000a1c5fa5fe3e8846624ead01cdf0e4a8d3
+gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:8fc3dac5d9e9c788bd250d49f411e419d3655e427e15b6a0b73a03935132f738
+gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping@sha256:98ee56cb1815e90d9985616a664ce133679c790120c3b8a3e04a7488486727d1
+gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping-webhook@sha256:26cb5fdb9a5fe575919869331172e2b73de01084c043191748fbd45ba443abc2
+gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:67f619672751867e70f60321be906cec40a77d0d849cc2354fbc4415c01c3442
