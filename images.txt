@@ -1,1 +1,1 @@
-gcr.io/knative-releases/knative.dev/net-kourier/cmd/kourier@sha256:f7456a7995567eddab4b34c8807f4a11c3a343836b65aa9183f8f47c2a9f3d6e
+gcr.io/knative-releases/knative.dev/serving/cmd/default-domain@sha256:b199b0da37dd0f399c585759487e9b44458c5fd2ef62a35c53b4979141fe4216
