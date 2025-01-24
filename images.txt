@@ -1,1 +1,3 @@
-gcr.io/knative-releases/knative.dev/serving/cmd/default-domain@sha256:b199b0da37dd0f399c585759487e9b44458c5fd2ef62a35c53b4979141fe4216
+docker.io/volcanosh/vc-webhook-manager:latest
+docker.io/volcanosh/vc-controller-manager:latest
+docker.io/volcanosh/vc-scheduler:latest
