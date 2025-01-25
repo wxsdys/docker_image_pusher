@@ -1,1 +1,2 @@
-minio/minio
+velero/velero-plugin-for-aws:v1.7.0
+velero/velero:v1.15.2
