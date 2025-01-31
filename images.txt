@@ -1,1 +1,1 @@
-docker.io/velero/velero-restore-helper:v1.15.2
+sonatype/nexus3
