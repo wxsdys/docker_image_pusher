@@ -1,1 +1,1 @@
-sonatype/nexus3
+sonarqube:8.9.3-community
