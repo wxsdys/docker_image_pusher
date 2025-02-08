@@ -1,1 +1,2 @@
-sonarqube:8.9.3-community
+redis:7.0.4-alpine
+ghcr.io/dexidp/dex:v2.32.0
