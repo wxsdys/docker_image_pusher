@@ -1,2 +1,1 @@
-redis:7.0.4-alpine
-ghcr.io/dexidp/dex:v2.32.0
+centos:centos7
