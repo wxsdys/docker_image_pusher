@@ -1,3 +1,1 @@
-nvidia/cuda:12.2.2-base-ubuntu22.04
-mysql:8.0
-mysql:5.7
+docker.n8n.io/n8nio/n8n
